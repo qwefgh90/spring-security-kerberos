@@ -1,7 +1,7 @@
-target/
+target/ adfa sdfas   
 .idea/
 build/
-bin/
+bin/ asd
 *.iml
 .gradle/
 .classpath
